@@ -1,0 +1,36 @@
+.a{
+    border-style: solid;
+        background-color: aliceblue;
+        margin: 140px 300px 300px 300px;
+        height: 200px;
+        width: 200px;
+        text-align: center;
+        border-radius: 2%;
+        
+}
+.b{
+    border-style: solid;
+        background-color: blueviolet;
+      margin-left: 47px;
+      margin-right: 54px;
+      margin-top: 4px;
+      margin-bottom: 10px;
+        height: 100px;
+        width: 100px;
+        border-radius: 100%;
+        background-image: url(abc12.jpg);
+        background-size: 100%;
+        
+}
+.d{
+    margin: 120px 44px 550px 30px;
+    font-size:x-small;
+}
+.c{
+    font-size: xx-small;
+    margin:10px 23px 300px 25px;
+}
+h1{
+    font-size: medium;
+    color: darkturquoise;
+}

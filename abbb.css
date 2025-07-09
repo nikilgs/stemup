@@ -1,0 +1,25 @@
+.a{
+    border-style: groove;
+    height: 135px;
+    background-color: bisque;
+    
+    
+}
+.b{
+    border-style: double;
+    border-color: rgb(123, 255, 0);
+    height:100px ;
+    width: 100px;
+    border-radius: 100%;
+    margin: -65px 400px 25px 350px;
+    background-image: url(abc12.jpg);
+    background-size: 100%;
+    
+
+}
+.c{
+    margin-left: 266px;
+    margin-top: 65px;
+    color: red;
+    font-style: initial;
+}
